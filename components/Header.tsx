@@ -14,7 +14,7 @@ export default function Footer () {
           <div className="flex items-center justify-start w-1/4 h-full pr-4">
             <a
               href="/"
-              title="DNS.Surf"
+              title="DNS.FIND.VG"
               className="flex items-center py-4 space-x-2 font-extrabold text-xl text-gray-900 md:py-0"
             >
               <span
@@ -22,7 +22,7 @@ export default function Footer () {
               >
                 <span className="w-6 h-6 icon-[mdi--dots-triangle]"></span>
               </span>
-              <span className="mx-2">DNS<dot className="text-indigo-600">.</dot>Surf</span>
+              <span className="mx-2">DNS<dot className="text-indigo-600">.</dot>FIND<dot className="text-indigo-600">.</dot>VG</span>
             </a>
           </div>
           <div
@@ -38,7 +38,7 @@ export default function Footer () {
             >
               <a
                 href="/"
-                title="DNS.Surf"
+                title="DNS.FIND.VG"
                 className="inline-flex items-center block w-auto h-16 px-6 text-xl font-black leading-none text-gray-900 md:hidden"
               >
                 <span
@@ -46,7 +46,7 @@ export default function Footer () {
                 >
                 <span className="w-6 h-6 icon-[mdi--email-outline]"></span>
                 </span>
-                <span className="mx-2">DNS<dot className="text-indigo-600">.</dot>Surf</span>
+                <span className="mx-2">DNS<dot className="text-indigo-600">.</dot>FIND<dot className="text-indigo-600">.</dot>VG</span>
               </a>
               <div className="w-full">
               </div>
