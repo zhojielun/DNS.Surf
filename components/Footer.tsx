@@ -15,22 +15,22 @@ export default function Footer() {
       <div className="container mx-auto flex flex-col items-center py-8 sm:flex-row">
         <a
           href="/"
-          title="DNS.Surf"
+          title="DNS.find.vg"
           className="logo select-none text-xl font-black leading-none text-gray-900"
         >
-          DNS<dot className="text-indigo-600">.</dot>Surf
+          DNS<dot className="text-indigo-600">.</dot>FIND<dot className="text-indigo-600">.</dot>VG
         </a>
         <a
           className="mt-4 text-sm text-gray-500 sm:ml-4 sm:mt-0 sm:border-l sm:border-gray-200 sm:pl-4"
-          href="https://html.zone"
+          href="https://blogs.vg"
           target="_blank"
-          title="HTML.ZONE"
+          title="BLOGS.VG"
         >
-          &copy; {new Date().getFullYear()} Products of HTML.ZONE
+          &copy; {new Date().getFullYear()} Products of BLOGS.VG
         </a>
         <span className="mt-4 inline-flex justify-center space-x-5 sm:ml-auto sm:mt-0 sm:justify-start">
           <a
-            href="mailto:dns.surf$miantiao.me"
+            href="mailto:dns.find$hotmail.ng"
             title="Email"
             className="text-gray-400 hover:text-gray-500"
             ref={email}
@@ -39,7 +39,7 @@ export default function Footer() {
             <span className="icon-[mdi--email] h-6 w-6"></span>
           </a>
           <a
-            href="https://t.me/htmlzone"
+            href="https://t.me/cneducn"
             target="_blank"
             title="Telegram"
             className="text-gray-400 hover:text-gray-500"
@@ -48,7 +48,7 @@ export default function Footer() {
             <span className="icon-[mdi--telegram] h-6 w-6"></span>
           </a>
           <a
-            href="https://mt.ci"
+            href="https://blogs.vg"
             target="_blank"
             title="Blog"
             className="text-gray-400 hover:text-gray-500"
@@ -58,7 +58,7 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://x.com/0xKaiBi"
+            href="https://x.com/cneducn"
             target="_blank"
             title="Twitter"
             className="text-gray-400 hover:text-gray-500"
@@ -67,7 +67,7 @@ export default function Footer() {
             <span className="icon-[mdi--twitter] h-6 w-6"></span>
           </a>
 
-          <a
+{/*           <a
             href="https://miantiao.me/@chi"
             target="_blank"
             title="Mastodon"
@@ -75,10 +75,10 @@ export default function Footer() {
           >
             <span className="sr-only">Mastodon</span>
             <span className="icon-[mdi--mastodon] h-6 w-6"></span>
-          </a>
+          </a> */}
 
           <a
-            href="https://github.com/ccbikai"
+            href="https://github.com/zhojielun"
             target="_blank"
             title="GitHub"
             className="text-gray-400 hover:text-gray-500"
